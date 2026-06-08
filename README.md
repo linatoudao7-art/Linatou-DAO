@@ -65,7 +65,7 @@ Je crois en l'apprentissage continu, à la persévérance et à la progression �
 ---
 
 ## Contact
-WhatsApp: 226 
+WhatsApp: +226 06564438
 📍 Ouagadougou, Burkina Faso
 
 N'hésitez pas à explorer mes projets et à suivre mon évolution !
