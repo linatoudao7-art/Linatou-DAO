@@ -34,15 +34,17 @@
 
 ---
 
-## Projets
+## 🚀 Mes projets
 
-📌 Retrouvez ici les projets que je réalise au fur et à mesure de mon apprentissage :
+### 🧮 Calculatrice
+Calculatrice réalisée en HTML, CSS et JavaScript.
 
-- Applications Java
-- Exercices algorithmiques
-- Sites web responsives
-- Projets académiques
-- Expérimentations personnelles
+🔗 https://linatoudao7-art.github.io/CALCULATRICE/
+
+### ✅ To-Do List
+Application de gestion de tâches.
+
+🔗 
 
 ---
 
@@ -64,8 +66,11 @@ Je crois en l'apprentissage continu, à la persévérance et à la progression �
 
 ---
 
-## Contact
-WhatsApp: +226 06564438
+## 📧 Contact
+
+- GitHub : https://github.com/linatoudao7-art
+- Email : linatoudao7@gmail.com
+
 📍 Ouagadougou, Burkina Faso
 
 N'hésitez pas à explorer mes projets et à suivre mon évolution !
