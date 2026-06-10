@@ -41,10 +41,10 @@ Calculatrice réalisée en HTML, CSS et JavaScript.
 
 🔗 https://linatoudao7-art.github.io/CALCULATRICE/
 
-### ✅ To-Do List
+### ✅ TacheMaker
 Application de gestion de tâches.
 
-🔗 https://github.com/linatoudao7-art/TacheMaker.git
+🔗 https://linatoudao7-art.github.io/TacheMaker/
 
 ---
 
